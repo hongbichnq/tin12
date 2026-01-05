@@ -5,5 +5,8 @@ h1 {
 }
 
 ol {
+  padding-top: 20px;
+}
+li {
   padding-top: 12px;
 }
