@@ -11,13 +11,13 @@ li {
   margin-top: 12px;
 }
 
-#f1{
+.f1{
   color: tomato;
   margin-top: 18pt;
   margin-bottom: 12pt;
 }
 
-#f2{
+.f2{
   color: darkgray;
   margin-top: 12pt;
   margin-bottom: 6pt;
