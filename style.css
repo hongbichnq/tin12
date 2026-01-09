@@ -1,5 +1,5 @@
 h1 {
-  padding-top: 12px;
+  margin-top: 12px;
   color: tomato;
   text-align: center;
 }
@@ -10,3 +10,10 @@ ol {
 li {
   margin-top: 12px;
 }
+
+.ds{
+  color: tomato;
+  margin-top: 18pt;
+  margin-bottom: 12pt;
+}
+
