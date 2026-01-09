@@ -11,9 +11,14 @@ li {
   margin-top: 12px;
 }
 
-.ds{
+.f1{
   color: tomato;
   margin-top: 18pt;
   margin-bottom: 12pt;
 }
 
+.f1{
+  color: darkgray;
+  margin-top: 18pt;
+  margin-bottom: 12pt;
+}
