@@ -3,6 +3,11 @@ h1 {
   color: red;
   text-align: center;
 }
+h2 {
+  margin: 12px;
+  color: darkgreen;
+  text-align: center;
+}
 
 ol {
   margin-top: 20px;
