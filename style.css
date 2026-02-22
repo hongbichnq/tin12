@@ -6,7 +6,7 @@
 .header{
     
     flex: 15%;
-    background: url("images/banner.png") center/cover no-repeat;
+    background: url("images/logoNQ.png") center/cover no-repeat;
 }
 .footer{
     background-color: lightgray;
