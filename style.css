@@ -4,8 +4,9 @@
     height: 100vh;          
 }
 .header{
-    background-color: lightgray;
+    
     flex: 15%;
+    background: url("images/banner.png") center/cover no-repeat;
 }
 .footer{
     background-color: lightgray;
