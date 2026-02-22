@@ -1,14 +1,14 @@
 .header{
     background-color: lightgray;
-    height: 10%;
+    height: 10vh;
 }
 .footer{
     background-color: lightgray;
-    height: 10%;
+    height: 10vh;
 }
 .menu{
     background-color: gray;
-    padding: 5%;
+    padding: 5vh;
 }
 .menu a {
     padding: 15px;
@@ -20,7 +20,7 @@
 }
 .content{
   background-color: white;
-  height: 75%;
+  height: 75vh;
 }
 iframe {
     border: none;
