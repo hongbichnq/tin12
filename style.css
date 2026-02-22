@@ -1,3 +1,23 @@
+.header{
+    background-color: lightgray;
+    height: 50px;
+}
+.menu{
+    background-color: gray;
+    padding: 10px;
+}
+.menu a {
+    padding: 15px;
+    color: lightgray;
+}
+.menu a:hover{
+    background-color: lightgray;
+    color: black;
+}
+.content{
+  background-color: white;
+  height: 350px;
+}
 h1 {
   margin: 12px;
   color: red;
