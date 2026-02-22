@@ -10,7 +10,7 @@
     padding: 0px;
     margin: 0px;
     flex: 15%;
-    background: url("images/logoNQ.png") center/cover no-repeat;  
+    background: url("images/logoNQ.png") center/100% 100% no-repeat;  
     background-color: #0B3C88;
     width:100%;
    /* aspect-ratio: 6 / 1;  */
