@@ -8,7 +8,7 @@
 }
 .menu{
     background-color: gray;
-    padding: 5vh;
+    height: 5vh;
 }
 .menu a {
     padding: 15px;
@@ -20,7 +20,7 @@
 }
 .content{
   background-color: white;
-  height: 75vh;
+  height: 100vh;
 }
 iframe {
     border: none;
