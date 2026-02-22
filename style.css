@@ -9,11 +9,11 @@
 .header{
     padding: 0px;
     margin: 0px;
-    flex: 10%;
+    flex: 15%;
     background: url("images/logoNQ.png") center/cover no-repeat;  
     background-color: #0B3C88;
     width:100%;
-    aspect-ratio: 6 / 1;  
+   /* aspect-ratio: 6 / 1;  */
 }
 .footer{
     background-color: #2c3e50;
@@ -21,6 +21,7 @@
     color: white;
     display:flex;
     justify-content:center;
+    align-items: center;
 }
 .menu{
     background-color: #2c3e50;
@@ -39,7 +40,7 @@
 }
 .content{
     background-color: white;
-    flex: 75%;
+    flex: 70%;
     display: flex;
 }
 .content iframe{
