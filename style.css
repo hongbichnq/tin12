@@ -5,7 +5,7 @@
 }
 .header{
     flex: 15%;
-    background: url("images/logoNQ.png") ;
+    background: url("images/logoNQ.png") center/cover no-repeat;
 
     
 }
