@@ -9,7 +9,7 @@
 .header{
     padding: 0px;
     margin: 0px;
-    flex: 15%;
+    flex: 10%;
     background: url("images/logoNQ.png") center/cover no-repeat;  
     background-color: #0B3C88;
     width:100%;
@@ -39,7 +39,7 @@
 }
 .content{
     background-color: white;
-    flex: 70%;
+    flex: 75%;
     display: flex;
 }
 .content iframe{
