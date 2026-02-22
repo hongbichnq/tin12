@@ -6,15 +6,15 @@
 }
 .header{
     background-color: lightgray;
-    flex: 1.5;
+    flex: 15%;
 }
 .footer{
     background-color: lightgray;
-    flex: 1;
+    flex: 10%;
 }
 .menu{
     background-color: gray;
-    flex: 0.5;
+    flex: 5%;
 }
 .menu a {
     padding: 15px;
@@ -26,7 +26,7 @@
 }
 .content{
   background-color: white;
-  flex: 7;
+  flex: 70%;
 }
 iframe {
     border: none;
