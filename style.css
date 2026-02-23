@@ -10,10 +10,10 @@
     padding: 0px;
     margin: 0px;
     flex: 15%;
-   /* background: url("images/logoNQ.png") center/contain no-repeat;  */
+    background: url("images/logoNQ.png") center/contain no-repeat;  
     background-color: #0B3C88;
     width:100%;
-   /* aspect-ratio: 6 / 1;  */
+    aspect-ratio: 6 / 1; 
 }
 .footer{
     background-color: #2c3e50;
