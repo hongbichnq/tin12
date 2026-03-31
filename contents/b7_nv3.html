@@ -1,18 +1,18 @@
 <html>
   <body>
-    <form action="b7_nv2.html">
-  <h2> Cảm ơn bạn đã góp ý </h2>
-  <p> Chúng tôi xin ghi nhận ý kiến của bạn </p>
   <p id="kq"> </p>
   <script>
       let params = new URLSearchParams(window.location.search);
       let name = document.getElementById("txtName").value;
       let email = document.getElementById("txtEmail").value;
       
-      document.getElementById("kq").innerHTML =
-              "Họ tên: " + txtName + "<br>Lớp: " + txtEmail;
+      document.getElementById("kq").innerHTML = "Họ tên: " + txtName + "<br>Lớp: " + txtEmail;
   </script>
-  <input type="submit" name="back" value="Quay lại"> 
-</form>
+    <form action="b7_nv2.html">
+      <h2> Cảm ơn bạn đã góp ý </h2>
+      <p> Chúng tôi xin ghi nhận ý kiến của bạn </p>
+  
+      <input type="submit" name="back" value="Quay lại"> 
+    </form>
   </body>
 </html>
