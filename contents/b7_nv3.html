@@ -5,13 +5,12 @@
   <p> Chúng tôi xin ghi nhận ý kiến của bạn </p>
 
   <script>
-      function hienthi(){
-          let name = document.getElementById("txtName").value;
-          let email = document.getElementById("txtEmail").value;
+      let params = new URLSearchParams(window.location.search);
+      let name = document.getElementById("txtName").value;
+      let email = document.getElementById("txtEmail").value;
       
-          document.getElementById("kq").innerHTML =
+      document.getElementById("kq").innerHTML =
               "Họ tên: " + txtName + "<br>Lớp: " + txtEmail;
-      }
   </script>
   <input type="submit" name="back" value="Quay lại"> 
 </form>
