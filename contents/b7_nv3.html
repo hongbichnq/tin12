@@ -3,13 +3,13 @@
   <p id="kq"> </p>
   <script>
       let params = new URLSearchParams(window.location.search);
-      let name = document.getElementById("txtName").value;
-      let email = document.getElementById("txtEmail").value;
-      document.getElementById("kq").innerHTML = "Họ tên: " + name + "<br>Email: " + email;
+      let name = params.get("txtName");
+      let email = params.get("txtEmail");
+      document.getElementById("kq").innerHTML = "Cảm ơn bạn " + name + " đã góp ý";
   </script>
     
     <form action="b7_nv2.html">
-      <h2> Cảm ơn bạn đã góp ý </h2>
+
       <p> Chúng tôi xin ghi nhận ý kiến của bạn </p>
   
       <input type="submit" name="back" value="Quay lại"> 
